@@ -1,7 +1,7 @@
 Simultaneous coherent structure coloring
 ========================================
 
-[License](https://img.shields.io/github/license/mashape/apistatus.svg)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 This repository contains the data and an example clustering model calculation in the arXiv preprint, [Simultaneous Coherent Structure Coloring facilitates interpretable clustering of scientific data by amplifying dissimilarity](https://arxiv.org/abs/1807.04427).
 
