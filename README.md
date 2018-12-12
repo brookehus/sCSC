@@ -8,7 +8,7 @@ This repository contains the data and an example clustering model calculation in
 If you use the code herein, please cite:
 
 ```bibtex
-@article{husic2018amplifying,
+@article{husic2018simultaneous,
   title={Simultaneous Coherent Structure Coloring facilitates interpretable clustering of scientific data by amplifying dissimilarity},
   author={Husic, Brooke E and Schlueter-Kuck, Kristy L and Dabiri, John O},
   journal={arXiv preprint arXiv:1807.04427},
